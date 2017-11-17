@@ -7,8 +7,9 @@ body{
   color: white;
   font-size: 70px;
   font-weight: bold;
+  background-size: 1500px 300px;
 }
-#header p{
+#header {
   font-size: 18px;
 }
 #process {
